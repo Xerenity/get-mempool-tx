@@ -1,4 +1,4 @@
-# Getting pending transactions from mempool vie Ethers.
+# Getting pending transactions from mempool via Ethers.
 
 ### Installation
 `npm i`
