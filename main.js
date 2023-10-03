@@ -1,5 +1,5 @@
 require('dotenv').config()
-const { providers, utils } = require("ethers");
+const { providers } = require("ethers");
 
 const provider = new providers.WebSocketProvider(process.env.rpcWS);   
 
