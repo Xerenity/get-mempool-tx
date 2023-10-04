@@ -20,7 +20,7 @@ https://github.com/Xerenity/get-mempool-tx/assets/34006311/238c57bf-f277-4e95-b7
 [Medium](https://medium.com/@xerenity) | 
 [Youtube](https://www.youtube.com/@xerenity_dev) | 
 [Telegram Channel](https://t.me/xerenity_dev) | 
-[Telegram Chat](https://t.me/xerenity_chat)
+[Telegram Chat](https://t.me/xerenity_chat) | 
 [Bitcointalk](https://bitcointalk.org/index.php?topic=5469207.0)
 
 
